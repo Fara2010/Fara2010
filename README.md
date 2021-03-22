@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fara2010
+- 👋 Hi, I’m @faranCode
 - 👀 I’m interested in developing my coding skills
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on potential projects 
